@@ -17,7 +17,7 @@ script:
   - python test.py
 
 # Defini que o processo de Deploy será na Plataforma Heroku. É necessário informar o nome da APP criada no Heroku
-#TESTE
+#TESTE2
 deploy:
   provider: heroku
   api-key: 
